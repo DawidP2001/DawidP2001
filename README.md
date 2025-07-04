@@ -3,6 +3,7 @@
 - 🌱 I’m currently working on a sentiment anlaysis website for reddit, using Flask, Reddits API, etc.
 - 📫 How to reach me you can email me at Dawidpionk01@Gmail.com
 - 😄 Pronouns: He/Him
+- You can check out my website at dawidpionk.com
 
 <!---
 DawidP2001/DawidP2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
