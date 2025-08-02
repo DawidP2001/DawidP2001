@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dawid Pionk
 - 👀 I’m interested in Full-Stack-Development, Machine Learning, and Assembly Development.
-- 🌱 I’m currently working on a full-stack-development project for a weather app
+- 🌱 I’m currently working on a full-stack-development project for an Online Retail website.
 - 📫 How to reach me you can email me at Dawidpionk01@Gmail.com
 - 😄 Pronouns: He/Him
 - You can check out my website at [dawidpionk.com](https://www.dawidpionk.com/)
