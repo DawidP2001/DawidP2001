@@ -1,6 +1,6 @@
 # Hi, I'm Dawid Pionk :)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawid-pionk-65983a263/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawid-pionk)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dawidpionk6019)
 [![Website](https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://DawidPionk.com)
 ## About Me
@@ -22,16 +22,25 @@ I am a recent graduate(2025) from the South East Technolgoical University in Car
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## What Am I Currently Working on?
+[![Online Retail Store](https://img.shields.io/badge/Online%20Retail%20Store-blue?style=for-the-badge)](https://github.com/DawidP2001/Online-Retail-Store)
+[![Flappy Bird Game](https://img.shields.io/badge/Flappy_Bird_Game-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/DawidP2001/Floppy-Bird)
 
 ## Previous Projects
+Below you can check out my finished projects :)
 
 ### Web Projects
+[![Weather App](https://img.shields.io/badge/Weather_App-blue?style=for-the-badge)](https://github.com/DawidP2001/Weather-App)
+[![Reddit Sentiment Analyser](https://img.shields.io/badge/Reddit_Sentiment_Analyser-blue?style=for-the-badge)](https://github.com/DawidP2001/Reddit-Sentiment-Analyser)
 
 ### Apps
+[![Java Bytecode Interpreter](https://img.shields.io/badge/Java_Bytecode_Interpreter-blue?style=for-the-badge)](https://github.com/DawidP2001/Java-Bytecode-Interpreter)
 
 ### Games
+[![Wator Project](https://img.shields.io/badge/Wator_Simulation-blue?style=for-the-badge)](https://github.com/DawidP2001/WatorProject)
+[![Assembly Space Shooter](https://img.shields.io/badge/Assembly_Space_Shooter-blue?style=for-the-badge)](https://github.com/DawidP2001/Assembly-Space-Shooter)
 
 ### Machine Learning
+[![Machine Learning Portfolio](https://img.shields.io/badge/Machine_Learning_Portfolio-blue?style=for-the-badge)](https://github.com/DawidP2001/MLPortfolio)
 
 ## Contact
 Email me at: dawidpionk01@gmail.com
